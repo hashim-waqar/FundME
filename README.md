@@ -1,6 +1,6 @@
 # About Project
-1-Get funds from users
-2-owner of contract withdraw funds from contract
+1. Get funds from users
+2. owner of contract withdraw funds from contract
 
 # Built With
 * Hardhat 
