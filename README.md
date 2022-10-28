@@ -13,15 +13,15 @@
 
 # Getting Started
 
-###### Installation
+## Installation
 
 ``` yarn install ``` 
 
-###### Deployment on Hardhat network
+## Deployment on Hardhat network
 
 1. ``` yarn Hardhat deploy```
 
-###### Deployment on Test networks (Goerli,Polygon or Avalanche)
+## Deployment on Test networks (Goerli,Polygon or Avalanche)
 
 1. Get private key from metamask  
 
@@ -31,12 +31,12 @@ For deployment on specific test network write the folllowing command
 
 ``` yarn hardhat deploy --network <network name>```
 
-###### Interaction with deployed contract 
+## Interaction with deployed contract 
 
 For Funding 
 
 
-###### Testing on local host 
+## Testing on local host 
 
 for unit testing write following command (it will use local network)
 
