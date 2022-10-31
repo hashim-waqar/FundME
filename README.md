@@ -31,10 +31,6 @@ For deployment on specific test network write the folllowing command
 
 ``` yarn hardhat deploy --network <network name>```
 
-## Interaction with deployed contract 
-
-For Funding 
-
 
 ## Testing on local host 
 
